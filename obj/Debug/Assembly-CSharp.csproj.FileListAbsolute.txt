@@ -1,0 +1,6 @@
+G:\U2D\MINIRPG\Temp\bin\Debug\Assembly-CSharp.dll
+G:\U2D\MINIRPG\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\U2D\MINIRPG\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+G:\U2D\MINIRPG\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+G:\U2D\MINIRPG\obj\Debug\Assembly-CSharp.dll
+G:\U2D\MINIRPG\obj\Debug\Assembly-CSharp.pdb
